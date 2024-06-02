@@ -1,0 +1,16 @@
+{
+  "name": "jslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "importESDemo.js",
+  "scripts": {
+    "test": "nodemon ./ModularizationDemo/importModuleDemo.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
